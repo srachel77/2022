@@ -1,0 +1,5 @@
+# CODEOWNERS file for my-project
+
+# The following line assigns the user 'srachel77' as the code owner for all files in the project.
+* @srachel77
+
